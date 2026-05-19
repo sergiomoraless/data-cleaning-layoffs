@@ -6,7 +6,7 @@ The goal was to prepare raw data for analysis by removing duplicates,
 standardizing inconsistent values, handling nulls, and fixing data types.
 
 ## Dataset
-- **Source**: layoffs.csv
+- **Source**: [layoffs.csv](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv)
 - **Content**: Tech company layoffs — company name, location, industry,
   number laid off, percentage, funding stage, country, date
 
